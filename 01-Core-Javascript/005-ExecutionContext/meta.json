@@ -1,0 +1,22 @@
+{
+    "id": "005",
+    "slug": "execution-context",
+    "title": "Execution Context",
+    "category": "Core JavaScript",
+    "difficulty": "Beginner",
+    "estimatedReadTime": 25,
+    "estimatedPracticeTime": 40,
+    "prerequisites": [
+        "001-Variables",
+        "002-Datatypes",
+        "004-Operators"
+    ],
+    "nextTopic": "006-Hoisting",
+    "previousTopic": "004-Operators",
+    "tags": [
+        "execution-context",
+        "hoisting",
+        "memory",
+        "javascript"
+    ]
+}
