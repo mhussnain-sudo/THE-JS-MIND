@@ -1,3 +1,10 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> **005-ExecutionContext**
+
+
 # Execution Context
 
 > **Topic ID:** EC
@@ -537,4 +544,23 @@ If you know *why* each behaves this way, you'll be able to predict the output of
 
 ---
 
-> **Continue reading:** The next sections (`EC-004` onward) cover the Execution Phase, Global vs Function Execution Context, why Hoisting exists, common misconceptions, and interview summaries. These will build directly on the concepts introduced above.
+# 📚 Continue Learning
+
+**Next →** [thinking.md](./thinking.md)
+
+---
+
+# 🧭 Topic Learning Path
+
+- [x] README.md ← You are here
+- [ ] thinking.md
+- [ ] decision-tree.md
+- [ ] recognition.md
+- [ ] examples.js
+- [ ] questions.md
+- [ ] practice.js
+- [ ] mistakes.md
+- [ ] cheatsheet.md
+- [ ] interview.md
+- [ ] companies.md
+- [ ] real-world.md
