@@ -1,4 +1,11 @@
 /*****************************************************************************************
+THE JS MIND
+└── 01-Core-Javascript
+    └── 005-ExecutionContext
+        └── examples.js
+
+
+/*****************************************************************************************
 
 THE JS MIND
 
@@ -679,19 +686,30 @@ Hoisting
 */
 
 //=========================================================================================
-
 /*****************************************************************************************
 
-END OF FILE
+THE JS MIND
 
-After completing these examples,
+Current File
 
-move to
+examples.js
+
+Progress
+
+README           ✅
+thinking         ✅
+decision-tree    ✅
+examples.js      📍
+questions.md
+practice.js
+mistakes.md
+cheatsheet.md
+interview.md
+companies.md
+real-world.md
+
+Next
 
 questions.md
-
-Do NOT proceed to practice.js
-
-until you can explain WHY every output occurs.
 
 *****************************************************************************************/

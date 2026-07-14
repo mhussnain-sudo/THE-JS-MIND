@@ -1,3 +1,11 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> [005-ExecutionContext](./README.md)
+> →
+> **thinking.md**
+
 # Thinking Like JavaScript
 
 > **Topic ID:** EC
@@ -541,12 +549,21 @@ See: `README.md`
 
 ---
 
-# Next Step
+# 📚 Continue Learning
 
-Now that you've learned how to think,
+**⬅ Previous:** [README.md](./README.md)
 
-move to:
+**➡ Next:** [decision-tree.md](./decision-tree.md)
 
-`decision-tree.md`
+---
 
-You'll learn how to identify Execution Context questions within seconds.
+# 🧭 Topic Learning Path
+
+- [x] README.md
+- [x] thinking.md ← You are here
+- [ ] decision-tree.md
+- [ ] examples.js
+- [ ] questions.md
+- [ ] practice.js
+- [ ] mistakes.md
+- [ ] cheatsheet.md

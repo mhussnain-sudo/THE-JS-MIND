@@ -1,3 +1,11 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> [005-ExecutionContext](./README.md)
+> →
+> **decision-tree.md**
+
 # Execution Context Decision Tree
 
 > **Topic ID:** EC
@@ -461,38 +469,21 @@ you'll stop memorizing JavaScript and start understanding it.
 
 ---
 
-# Related Files
+# 📚 Continue Learning
 
-📖 Theory
+**⬅ Previous:** [thinking.md](./thinking.md)
 
-README.md
-
-Sections
-
-- EC-001
-- EC-002
-- EC-003
+**➡ Next:** [examples.js](./examples.js)
 
 ---
 
-💻 Examples
+# 🧭 Topic Learning Path
 
-examples.js
-
----
-
-❓ Questions
-
-questions.md
-
----
-
-✍ Practice
-
-practice.js
-
----
-
-🚫 Common Mistakes
-
-mistakes.md
+- [x] README.md
+- [x] thinking.md 
+- [x] decision-tree.md ← You are here
+- [ ] examples.js
+- [ ] questions.md
+- [ ] practice.js
+- [ ] mistakes.md
+- [ ] cheatsheet.md
