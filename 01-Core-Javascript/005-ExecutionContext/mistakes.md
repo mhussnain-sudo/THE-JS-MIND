@@ -1,3 +1,11 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> [005-ExecutionContext](./README.md)
+> →
+> **mistakes.md**
+
 # Common Mistakes
 
 > **Topic ID:** EC
@@ -573,10 +581,21 @@ practice.js
 
 ---
 
-# Next Step
+# 📚 Continue Learning
 
-Open:
+**⬅ Previous:** [practice.js](./practice.js)
 
-`cheatsheet.md`
+**➡ Next:** [cheatsheet.md](./cheatsheet.md)
 
-You'll condense everything you've learned into a one-page revision guide.
+---
+
+# 🧭 Topic Learning Path
+
+- [x] README.md
+- [x] thinking.md 
+- [x] decision-tree.md
+- [x] examples.js
+- [x] questions.md 
+- [x] practice.js
+- [x] mistakes.md ← You are here
+- [ ] cheatsheet.md

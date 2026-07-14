@@ -1,3 +1,11 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> [005-ExecutionContext](./README.md)
+> →
+> **questions.md**
+
 # Execution Context Questions
 
 > Topic ID : EC
@@ -808,10 +816,21 @@ If you can answer all of these without looking at the README, you're ready to mo
 
 ---
 
-# Next Step
+# 📚 Continue Learning
 
-👉 Open
+**⬅ Previous:** [examples.js](./examples.js)
 
-practice.js
+**➡ Next:** [practice.js](./practice.js)
 
-and solve every exercise without executing the code first.
+---
+
+# 🧭 Topic Learning Path
+
+- [x] README.md
+- [x] thinking.md 
+- [x] decision-tree.md
+- [x] examples.js
+- [x] questions.md ← You are here
+- [ ] practice.js
+- [ ] mistakes.md
+- [ ] cheatsheet.md

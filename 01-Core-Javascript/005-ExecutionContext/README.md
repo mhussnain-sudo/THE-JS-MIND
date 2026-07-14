@@ -162,11 +162,12 @@ By the end of this lesson you should be able to explain
 
 See
 
-**assets/diagram.png**
+![Execution Context Diagram](./assets/diagram.png)
+
 
 or
 
-**assets/diagram.drawio**
+[Open Editable Diagram](./assets/diagram.drawio)
 
 The diagram summarizes everything we'll learn in this lesson.
 

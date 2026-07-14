@@ -704,9 +704,6 @@ questions.md
 practice.js
 mistakes.md
 cheatsheet.md
-interview.md
-companies.md
-real-world.md
 
 Next
 

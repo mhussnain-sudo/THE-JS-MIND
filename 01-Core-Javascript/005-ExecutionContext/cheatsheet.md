@@ -1,3 +1,11 @@
+> 🏠 [THE JS MIND](../../README.md)
+> →
+> [01-Core-Javascript](../README.md)
+> →
+> [005-ExecutionContext](./README.md)
+> →
+> **cheatsheet.md**
+
 # Execution Context Cheat Sheet
 
 > Topic ID: EC
@@ -314,3 +322,20 @@ Output
 If you can explain this flow,
 
 you understand Execution Context.
+
+# 📚 Continue Learning
+
+**⬅ Previous:** [mistakes.md](./mistakes.md)
+
+---
+
+# 🧭 Topic Learning Path
+
+- [x] README.md
+- [x] thinking.md 
+- [x] decision-tree.md
+- [x] examples.js
+- [x] questions.md 
+- [x] practice.js
+- [x] mistakes.md 
+- [x] cheatsheet.md ← THE END

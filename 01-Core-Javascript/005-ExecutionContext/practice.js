@@ -1,3 +1,9 @@
+/*****************************************************************************************
+THE JS MIND
+└── 01-Core-Javascript
+    └── 005-ExecutionContext
+        └── practice.js
+
 /****************************************************************************************
 
 THE JS MIND
@@ -642,19 +648,27 @@ I reason.
 
 */
 
-//========================================================================================
-// Next Step
-//========================================================================================
+/*****************************************************************************************
 
-/*
+THE JS MIND
 
-Open
+Current File
+
+practice.js
+
+Progress
+
+README           ✅
+thinking         ✅
+decision-tree    ✅
+examples.js      ✅
+questions.md     ✅
+practice.js      📍
+mistakes.md
+cheatsheet.md
+
+Next
 
 mistakes.md
 
-Most interview failures happen because of
-small misconceptions.
-
-Let's eliminate them before moving on.
-
-*/
+*****************************************************************************************/
