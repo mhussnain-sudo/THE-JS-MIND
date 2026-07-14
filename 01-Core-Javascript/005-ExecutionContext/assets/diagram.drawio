@@ -1,55 +1,52 @@
 <mxfile host="65bd71144e">
     <diagram id="8n4fsobEtzG_cvqL3LiE" name="Page-1">
-        <mxGraphModel dx="499" dy="2514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="2390" dy="3415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="54" value="" style="group" vertex="1" connectable="0" parent="1">
-                    <mxGeometry x="1275" y="-2070" width="840" height="2250" as="geometry"/>
-                </mxCell>
-                <mxCell id="68" value="" style="edgeStyle=none;html=1;" edge="1" parent="54" source="2" target="4">
+                <mxCell id="68" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="&lt;b&gt;JavaScript File Starts&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;script.js&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="70" width="240" height="40" as="geometry"/>
+                <mxCell id="2" value="&lt;b&gt;JavaScript File Starts&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;script.js&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-2000" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;b&gt;Javascript Engine Receives Code&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="150" width="240" height="40" as="geometry"/>
+                <mxCell id="4" value="&lt;b&gt;Javascript Engine Receives Code&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-1920" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="54" source="5" target="17">
+                <mxCell id="56" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;b&gt;Create Global Execution Context (GEC)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="230" width="240" height="40" as="geometry"/>
+                <mxCell id="5" value="&lt;b&gt;Create Global Execution Context (GEC)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-1840" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.502;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="54" source="4" target="5">
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.502;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="4" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="54" source="17" target="19">
+                <mxCell id="57" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="17" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="&lt;b&gt;Memory Creation Phase&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="310" width="240" height="40" as="geometry"/>
+                <mxCell id="17" value="&lt;b&gt;Memory Creation Phase&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-1760" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="54" source="19" target="21">
+                <mxCell id="58" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="19" target="21" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="&lt;b&gt;Execution Phase&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="390" width="240" height="40" as="geometry"/>
+                <mxCell id="19" value="&lt;b&gt;Execution Phase&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-1680" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="&lt;b&gt;Program Execution Finished&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="54">
-                    <mxGeometry x="300" y="470" width="240" height="40" as="geometry"/>
+                <mxCell id="21" value="&lt;b&gt;Program Execution Finished&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1575" y="-1600" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Memory Creation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;b&gt;Variables&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;undefined (var)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Entire Function Stored in memory&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="54">
-                    <mxGeometry x="65" y="275" width="205" height="110" as="geometry"/>
+                <mxCell id="64" value="&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Memory Creation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;b&gt;Variables&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;undefined (var)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 80%;&quot;&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Entire Function Stored in memory&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1340" y="-1795" width="205" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="" style="edgeStyle=none;html=1;" edge="1" parent="54" source="17" target="64">
+                <mxCell id="65" value="" style="edgeStyle=none;html=1;" parent="1" source="17" target="64" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="66" value="&lt;b&gt;Execute Line 1&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Execute Line 2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Execute Line 3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Program Ends&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=left;" vertex="1" parent="54">
-                    <mxGeometry x="595" y="370" width="220" height="85" as="geometry"/>
+                <mxCell id="66" value="&lt;b&gt;Execute Line 1&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Execute Line 2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Execute Line 3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Program Ends&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=left;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="1870" y="-1700" width="220" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="" style="edgeStyle=none;html=1;" edge="1" parent="54" source="19" target="66">
+                <mxCell id="67" value="" style="edgeStyle=none;html=1;" parent="1" source="19" target="66" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
