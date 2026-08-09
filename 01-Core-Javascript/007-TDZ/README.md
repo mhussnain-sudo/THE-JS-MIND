@@ -124,11 +124,11 @@ By the end of this lesson you should be able to explain
 
 See
 
-![Temporal Dead Zone Diagram](./diagram.png)
+![Temporal Dead Zone Diagram](./assets/diagram.png)
 
 or
 
-[Open Editable Diagram](./diagram.drawio)
+[Open Editable Diagram](./assets/diagram.drawio)
 
 The diagram summarizes everything we'll learn in this lesson.
 
