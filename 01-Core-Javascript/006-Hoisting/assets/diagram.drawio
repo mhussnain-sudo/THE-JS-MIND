@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="ho006diagram01" name="Page-1">
+        <mxGraphModel dx="2390" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+
+                <mxCell id="h1" value="&lt;b&gt;JavaScript File Starts&lt;/b&gt;&lt;div&gt;&lt;b&gt;script.js&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="40" width="240" height="50" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="h2" value="&lt;b&gt;JavaScript Engine Receives Code&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="130" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="e1" style="edgeStyle=none;html=1;" parent="1" source="h1" target="h2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="h3" value="&lt;b&gt;Create Global Execution Context (GEC)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="220" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="e2" style="edgeStyle=none;html=1;" parent="1" source="h2" target="h3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="h4" value="&lt;b&gt;Memory Creation Phase&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="310" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="e3" style="edgeStyle=none;html=1;" parent="1" source="h3" target="h4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="h5" value="&lt;b&gt;Execution Phase&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="400" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="e4" style="edgeStyle=none;html=1;" parent="1" source="h4" target="h5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="h6" value="&lt;b&gt;Program Execution Finished&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="490" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="e5" style="edgeStyle=none;html=1;" parent="1" source="h5" target="h6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="side1" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Hoisting = What Memory&lt;br&gt;Creation Does Here&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;var&lt;/b&gt; → undefined&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;function&lt;/b&gt; → entire function stored&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;let / const&lt;/b&gt; → created, NOT initialized (TDZ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="280" width="230" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="e6" style="edgeStyle=none;html=1;" parent="1" source="side1" target="h4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+                <mxCell id="side2" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Access BEFORE assignment line&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;var&lt;/b&gt; → undefined&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;function&lt;/b&gt; → works&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;let / const&lt;/b&gt; → ReferenceError&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="370" width="220" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="e7" style="edgeStyle=none;html=1;" parent="1" source="h5" target="side2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
